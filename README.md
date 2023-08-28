@@ -1,6 +1,6 @@
 # PhoneNumberLib
 
-That library makes it easier to work with phone numbers in C#.
+That library makes it easier to work with phone numbers.
 .NET Framework 4.8
 
 ### Usage example
